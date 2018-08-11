@@ -1,4 +1,5 @@
 #!/usr/bin/python
+# Desenvolvido por Denis Ferreria de Arruda
 
 from selenium import webdriver
 from selenium.webdriver.common.keys import Keys
